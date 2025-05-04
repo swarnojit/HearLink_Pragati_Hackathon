@@ -117,6 +117,4 @@ Arpan Chowdhury
 
 📣 We're open to partnerships with schools, NGOs, EdTech firms, and government bodies.
 
----
 
-Let me know if you'd like this converted into a `README.md` file or want a version tailored for GitHub with visual badges, screenshots, or interactive elements.
