@@ -1,52 +1,122 @@
-# HearLink
 
-## 📢 Empowering Deaf Students in Any Classroom
 
-HearLink is an AI-powered support app that enables deaf students to study in any school by providing real-time multilingual speech-to-text transcription, emotion detection for real-time teacher alerts, and AI-generated study materials. Our goal is to create an inclusive and accessible learning environment.
+# 🔊 HearLink: Bridging Silence, Building Futures
 
----
+**Empowering Deaf, Hard-of-Hearing & Neurodiverse Students with Real-Time AI Support.**
+HearLink is a cloud-native, production-ready EdTech solution that transforms classrooms into inclusive learning spaces using **multilingual speech-to-text**, **emotion detection**, and **AI-generated learning aids**.
 
-## 🌟 Key Features
-
-### 🎤 Real-time Multilingual Speech-to-Text
-- Converts spoken language into real-time text in multiple languages.
-- Allows deaf students to follow classroom discussions in their mother tongue.
-
-### 😊 Emotion Detection for Teacher Alerts
-- Detects students' emotions during class.
-- Alerts teachers in real-time when students show signs of confusion or difficulty understanding.
-- Powered by a custom-trained model.
-
-### 📚 AI-Generated Study Materials
-- Teachers can upload lectures and YouTube video links, and AI will generate:
-  - 🎥 Video transcription and summaries
-  - 🃏 Flashcards and notes generation
-  - 📝 AI-generated quizzes and interactive exercises to reinforce learning.
-- Upload notes to get multilingual versions.
-- Available in multiple languages to help students retain information better.
-
-### 👩‍🏫 AI-Powered Teacher Decision Support & Training
-- Provides insights and training recommendations for teachers to improve inclusivity and engagement in classrooms.
-- Structured feedback is generated based on real-time emotion analysis.
-- Suggests minor or major changes based on distress percentage (10%+ for minor adjustments, 20%+ for significant improvements).
-- Teachers can view detailed progress reports for each student on a dashboard.
+> 🚀 **Top 83 Project - Pragati META AI Hackathon 2025**
 
 ---
 
-## 🔜 Future Enhancements
-- 📲 Mobile app integration for greater accessibility.
-- 🎮 Gamified learning experiences to enhance engagement.
+## 🌐 Live Deployment & Repos
+
+| Resource               | Link                                                                 |
+| ---------------------- | -------------------------------------------------------------------- |
+| 🖥️ Live Web App       | [Try HearLink Now](https://hearlink.vercel.app/)          |
+| 🌍 Frontend Repository | [GitHub - HearLink Frontend](https://github.com/apu52/HEARLINK_FRONTEND_NEW)  |
+| 📽️ Pitch Deck         | [View Pitch Deck](https://www.canva.com/design/DAGj1ugYrPM/oUBl0Rx3oz_0LaCELk_0PA/edit?utm_content=DAGj1ugYrPM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)          |
 
 ---
 
-## 🛠️ Tech Stack
-- **Speech-to-Text**: Whisper fine-tuning
-- **Emotion Detection**: Custom-trained Facial Emotion Recognition (FER) model
-- **Multilingual Content Generation**: Whisper fine-tuning, Ollama, and AI-based NLP processing
-- **Feedback Generation**: Gemini for AI-powered insights
+## 🌟 Core Features
+
+| Feature                                      | Description                                                                                                                      |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 🎤 **Real-Time Multilingual Speech-to-Text** | Converts classroom speech into real-time captions across 50+ languages using fine-tuned **Whisper** models.                      |
+| 😊 **Emotion Detection (Live)**              | Uses camera-based AI to detect student emotions like confusion, frustration, and boredom. Sends alerts to teachers.              |
+| 📚 **AI-Generated Study Materials**          | Transcribes lectures to generate **notes**, **quizzes**, **flashcards**, and **summaries** in multiple languages via **Ollama**. |
+| 🧠 **Teacher Decision Support**              | Real-time analytics on student engagement. Suggests minor/major interventions based on detected emotion levels.                  |
+| 💻 **Device-Agnostic Access**                | Web-based platform works on laptops, tablets; mobile version in development.                                                     |
+| 📈 **Feedback & Reports**                    | Dashboards for teachers show individual student progress and emotional engagement history.                                       |
 
 ---
 
-## 📧 Contact
-For questions or collaborations, reach out at: maitras600@gmail.com
+## 🚧 Future Roadmap
 
+| Upcoming Feature                   | Description                                                                          |
+| ---------------------------------- | ------------------------------------------------------------------------------------ |
+| 🧑‍🏫 Full-Class Emotion Analytics | Group emotion tracking and class-wide participation dashboards.                      |
+| 📱 Mobile App                      | Cross-platform **Flutter** app to support smartphones and at-home learners.          |
+| 💡 Smart Assistive Hardware        | Affordable wearable or classroom devices for deaf students.                          |
+| 🔗 EdTech Integration              | Plug-and-play API support for **Google Classroom**, **Moodle**, **Microsoft Teams**. |
+
+---
+
+## 🧪 Technology Stack
+
+| Component             | Tech                                     |
+| --------------------- | ---------------------------------------- |
+| **Speech-to-Text**    | Whisper (fine-tuned), E2E Cloud          |
+| **Emotion Detection** | Custom FER model (Vision AI)             |
+| **AI/LLM**            | Ollama, Gemini for teacher insights      |
+| **Frontend**          | React (Web), Flutter (Mobile)            |
+| **Backend**           | Flask                                    |
+| **Database**          | PostgreSQL, S3-compatible object storage |
+| **Analytics**         | Superset, Metabase                       |
+| **Demo/UI**           | Streamlit (initial versions)             |
+
+---
+
+## 💼 Business & Social Impact Strategy
+
+| Strategy                  | Model                                           |
+| ------------------------- | ----------------------------------------------- |
+| **B2B SaaS**              | Subscription tiers: Basic, Pro, Enterprise      |
+| **B2G**                   | Government partnerships for wide rollout        |
+| **D2C (Coming)**          | Paid app for learners + parent dashboards       |
+| **CSR & NGOs**            | Affordable deployment in underserved schools    |
+| **Ethical Data Insights** | Anonymized, compliant reports for policy makers |
+
+---
+
+## 📊 Scalability & Infrastructure
+
+* **Hosted on**: E2E Networks (cost-efficient, India-optimized)
+* **Cloud-native**: Horizontal scaling, serverless options
+* **Edge-Optimized**: Future-ready for on-device emotion analysis
+* **Regionally Tuned Models**: Support for local dialects and accents
+* **API-First Architecture**: Simple integration with any LMS or EdTech system
+
+---
+
+## 🏆 Why HearLink is Unique
+
+✅ **Production-Ready** – Already operational in classrooms
+
+✅ **Inclusive Design** – Deaf, neurodiverse, and multilingual students supported
+
+✅ **Multi-AI Fusion** – Speech, Vision, and NLP blended seamlessly
+
+✅ **Scalable & Sustainable** – Tiered business model, affordable for public schools
+
+✅ **Impact-Oriented** – Real feedback, real use cases, real change
+
+---
+
+## ✨ Recognition
+
+🎖️ Selected in **Top 83 Projects** at **META AI Pragati Hackathon 2025**, India’s premier AI innovation event supporting real-world problem solving in education.
+
+---
+
+## 🤝 Contact & Collaboration
+
+📬 Email: [maitras600@gmail.com](mailto:maitras600@gmail.com)
+
+👥 Team HearLink Members
+
+Swarnojit Maitra (Team Leader)
+
+Priyadeep Mullick
+
+Titiksha Chakraborty
+
+Arpan Chowdhury
+
+
+📣 We're open to partnerships with schools, NGOs, EdTech firms, and government bodies.
+
+---
+
+Let me know if you'd like this converted into a `README.md` file or want a version tailored for GitHub with visual badges, screenshots, or interactive elements.
