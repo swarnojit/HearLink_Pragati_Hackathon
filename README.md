@@ -48,7 +48,7 @@ HearLink is a cloud-native, production-ready EdTech solution that transforms cla
 | Component             | Tech                                     |
 | --------------------- | ---------------------------------------- |
 | **Speech-to-Text**    | Whisper (fine-tuned), E2E Cloud          |
-| **Emotion Detection** | Custom FER model (Vision AI)             |
+| **Emotion Detection** | Custom FER model                         |
 | **AI/LLM**            | Ollama, Gemini for teacher insights      |
 | **Frontend**          | React (Web), Flutter (Mobile)            |
 | **Backend**           | Flask                                    |
