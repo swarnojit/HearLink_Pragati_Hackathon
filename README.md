@@ -2,6 +2,10 @@
 
 # 🔊 HearLink: Bridging Silence, Building Futures
 
+![image](https://github.com/user-attachments/assets/76a6112a-5509-4187-977a-854f253032d0)
+
+
+
 **Empowering Deaf, Hard-of-Hearing & Neurodiverse Students with Real-Time AI Support.**
 HearLink is a cloud-native, production-ready EdTech solution that transforms classrooms into inclusive learning spaces using **multilingual speech-to-text**, **emotion detection**, and **AI-generated learning aids**.
 
